@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:black ;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+video{
+    width: 900px;
+    height: 850px;
+    box-shadow: 4px 5px 4px 15px white;
+}
